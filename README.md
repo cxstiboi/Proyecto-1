@@ -1,2 +1,3 @@
 # Proyecto-1
-Mi primer proyecto en un repositorio de prueba de henry
+Este es una prueba de como crear un repositorios desde GitHub
+
